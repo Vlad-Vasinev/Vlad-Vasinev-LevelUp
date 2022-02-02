@@ -3,7 +3,7 @@
 jQuery(document).ready(function ($) {
 
     //видео на заднем фоне
-    $('.promo').vide('/video-bg/video-1.mp4');
+    $('.promo').vide('video-bg/video-1.mp4');
 
     //таймер 
     $(function () {
