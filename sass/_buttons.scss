@@ -1,0 +1,14 @@
+.btn {
+    border-radius: 5px;
+    padding: 6px 0;
+    background-color: $Deep-Pink;
+    max-width: 250px;
+    width: 100%;
+    color: #fff;
+    display: block;
+    margin: 0 auto;
+    max-width: 300px;
+    &:hover {
+        background-color: $Razzmatazz;
+    }
+}
